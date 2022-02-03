@@ -39,5 +39,3 @@
 4. 在语雀配置 Webhook，将 Webhook 的 URL 替换为上述路由地址。
 
     ![1640744749518](https://cdn.jsdelivr.net/gh/huhuhang/cdn@master/images/2022/02/1643887961055.png)
-
-5. 如果一切顺利，你会在企业微信群内收到 PING 请求。
