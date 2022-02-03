@@ -79,6 +79,6 @@ addEventListener("fetch", event => {
     return event.respondWith(handleRequest(request))
   }
   else {
-    return event.respondWith(new Response("请使用参考使用文档: https://github.com/huhuhang/yuque-wecom-bot"))
+    return event.respondWith(new Response("使用方法请参考文档: https://github.com/huhuhang/yuque-wecom-bot"))
   }
 })

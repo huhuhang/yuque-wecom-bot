@@ -2,7 +2,7 @@
 
 示例如下：
 
-<p class="md_line_with_image"><img width='350px' src="https://cdn.jsdelivr.net/gh/huhuhang/cdn@master/images/2022/02/1643889452224.png"></p>
+<img width='350px' src="https://cdn.jsdelivr.net/gh/huhuhang/cdn@master/images/2022/02/1643889452224.png">
 
 目前支持知识库文档新增、更新等操作的消息提醒。
 
