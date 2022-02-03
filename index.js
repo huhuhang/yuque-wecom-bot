@@ -53,7 +53,7 @@ async function handleMdMsg(botKey, reqBody) {
     "publish": "发布",
     "delete": "删除"
   };
-  mdMsg = `[${user_name}] ${actionWords[reqBody.data.action_type]}了【[${article_name}](${article_url})】\n> 来自知识库: ${book_name}`
+  mdMsg = `${user_name} ${actionWords[reqBody.data.action_type]}了《[${article_name}](${article_url})》\n> 来自【${book_name}】`
   return await sendMdMsg(botKey, mdMsg);
 }
 

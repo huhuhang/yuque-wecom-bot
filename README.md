@@ -2,6 +2,8 @@
 
 本项目提供了基于 Cloudflare Workers 部署 API，支持基于语雀 Yuque Webhook 将操作消息推送给企业微信机器人。
 
+<img width='350px' src="https://cdn.jsdelivr.net/gh/huhuhang/cdn@master/images/2022/02/1643889452224.png">
+
 目前支持：
 
 - 知识库文档更新操作。
